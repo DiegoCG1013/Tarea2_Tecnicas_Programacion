@@ -2,4 +2,5 @@
 
 Tarea 2 Curso_22_23_Tecnicas
 
-## Mi repositorio: https://github.com/DiegoCG1013/Tarea1_Tecnicas_Programacion.git
+## Mi repositorio: 
+* https://github.com/DiegoCG1013/Tarea1_Tecnicas_Programacion.git
