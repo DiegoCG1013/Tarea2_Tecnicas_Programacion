@@ -76,3 +76,12 @@ Introduzca el tiempo del recorrido (min).
 240
 
 Se ha desplazado a una velocidad de 92,5 km/h.
+
+### Respuesta: 
+> distancia, tiempo: real
+
+> distancia <- enter("Introduzca la distancia recorrida (km).")
+
+> tiempo <- enter(Introduzca el tiempo del recorrido (min).)
+
+> escribir("Se ha desplazado a una velocidad de " & (distancia/(tiempo/60)) & " km/s")
