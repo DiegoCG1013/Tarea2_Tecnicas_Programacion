@@ -39,10 +39,10 @@ Inicio
    escribir(valor1 & " # " & CST)  
 Fin 
 
-### Resultado: 
+### Respuesta: 
 > Exactamente se mostrará lo siguiente: 
-> Test , valor2 = 8
-> 4 # 49,78
+> "Test , valor2 = 8"
+> "4 # 49,78"
 
 ## 3. ¿Qué hace?
 ¿Qué hace este algoritmo?
@@ -58,6 +58,10 @@ Inicio
    valor2 <- valor1  
    escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
 Fin 
+
+### Respuesta:
+> Este algoritmo mostraria lo siguiente por pantalla: "valor1 = (Segundo valor introducido por el usuario); valor2 = (Segundo valor introducido por el usuario)"
+
 ## 4. Velocidad media
 Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
 
