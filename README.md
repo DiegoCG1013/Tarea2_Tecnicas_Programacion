@@ -38,6 +38,12 @@ Inicio
    escribir(cadena1 & " , valor2 = " & valor2)  
    escribir(valor1 & " # " & CST)  
 Fin 
+
+### Resultado: 
+> Exactamente se mostrará lo siguiente: 
+> Test , valor2 = 8
+> 4 # 49,78
+
 ## 3. ¿Qué hace?
 ¿Qué hace este algoritmo?
 
